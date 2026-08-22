@@ -1,0 +1,2 @@
+Timestamp,DeviceId,DeviceName,ActionType,LogonType,AccountName,RemoteIP,RemoteDeviceName
+2026-08-17T14:30:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-RSCH-SRV07,LogonSuccess,RemoteInteractive,adm.rpatel,10.42.18.42,NSH-RSCH-WS042

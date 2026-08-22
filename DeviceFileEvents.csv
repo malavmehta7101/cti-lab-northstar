@@ -1,0 +1,14 @@
+Timestamp,DeviceId,DeviceName,ActionType,FileName,FolderPath,InitiatingProcessFileName,InitiatingProcessCommandLine,InitiatingProcessAccountName
+2026-07-16T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260716.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-07-19T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260719.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-07-22T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260722.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-07-24T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260724.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-07-30T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260730.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-08-01T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260801.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-08-07T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260807.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-08-08T23:55:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-FILE-SRV02,FileCreated,backup_20260808.zip,D:\Backups\weekly,veeam.exe,veeam.exe --job weekly,svc_backup
+2026-08-17T13:46:32.0000000Z,a1b2c3d4e5f60718293a4b5c6d7e8f9012345678,NSH-RSCH-WS042,FileCreated,ds.tmp,C:\Windows\Temp\rt,rundll32.exe,"rundll32.exe comsvcs.dll, MiniDump 712",r.kaur
+2026-08-17T15:44:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-RSCH-SRV07,FileCreated,onc_trial_2025.zip,C:\Windows\Temp\rt,7z.exe,"7z.exe a -tzip -mx1 C:\Windows\Temp\rt\onc_trial_2025.zip ""E:\Research\onc_trial_2025\*""",adm.rpatel
+2026-08-17T15:53:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-RSCH-SRV07,FileCreated,genomics_raw.zip,C:\Windows\Temp\rt,7z.exe,"7z.exe a -tzip -mx1 C:\Windows\Temp\rt\genomics_raw.zip ""E:\Research\genomics_raw\*""",adm.rpatel
+2026-08-17T16:02:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-RSCH-SRV07,FileCreated,clinical_notes_archive.zip,C:\Windows\Temp\rt,7z.exe,"7z.exe a -tzip -mx1 C:\Windows\Temp\rt\clinical_notes_archive.zip ""E:\Research\clinical_notes_archive\*""",adm.rpatel
+2026-08-17T16:11:26.0000000Z,b2c3d4e5f60718293a4b5c6d7e8f90123456789a,NSH-RSCH-SRV07,FileCreated,grant_submissions.zip,C:\Windows\Temp\rt,7z.exe,"7z.exe a -tzip -mx1 C:\Windows\Temp\rt\grant_submissions.zip ""E:\Research\grant_submissions\*""",adm.rpatel

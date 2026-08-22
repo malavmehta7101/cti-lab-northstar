@@ -1,0 +1,362 @@
+TimeGenerated,UserPrincipalName,IPAddress,Location,City,ResultType,AppDisplayName,ClientAppUsed,AuthenticationRequirement,RiskLevelDuringSignIn,DeviceDetail_displayName
+2026-07-16T04:57:26.0000000Z,l.moreau@northstarhealth.org,99.243.33.245,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-16T06:16:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.16.216,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-16T07:51:26.0000000Z,t.silvestri@northstarhealth.org,99.243.54.37,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-16T08:05:26.0000000Z,h.nakamura@northstarhealth.org,99.243.194.68,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-16T08:11:26.0000000Z,d.whitfield@northstarhealth.org,99.243.168.199,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-16T10:44:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.208.250,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-16T14:29:26.0000000Z,r.kaur@northstarhealth.org,99.243.156.7,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-16T14:49:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.19.150,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-16T14:59:26.0000000Z,s.tremblay@northstarhealth.org,99.243.246.85,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-16T15:52:26.0000000Z,k.abebe@northstarhealth.org,99.243.35.43,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-16T17:44:26.0000000Z,j.okafor@northstarhealth.org,99.243.125.177,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-17T06:48:26.0000000Z,k.abebe@northstarhealth.org,99.243.70.208,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-17T06:58:26.0000000Z,s.tremblay@northstarhealth.org,99.243.87.76,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-17T07:20:26.0000000Z,j.okafor@northstarhealth.org,99.243.221.37,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-17T10:09:26.0000000Z,d.whitfield@northstarhealth.org,99.243.102.47,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-17T10:30:26.0000000Z,l.moreau@northstarhealth.org,99.243.85.93,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-17T11:26:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.23.59,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-17T13:37:26.0000000Z,r.kaur@northstarhealth.org,99.243.18.28,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-17T14:05:26.0000000Z,h.nakamura@northstarhealth.org,99.243.33.51,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-17T15:30:26.0000000Z,t.silvestri@northstarhealth.org,99.243.185.26,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-17T15:31:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.246.213,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-17T16:12:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.132.234,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-18T05:18:26.0000000Z,k.abebe@northstarhealth.org,99.243.81.129,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-18T05:20:26.0000000Z,h.nakamura@northstarhealth.org,99.243.230.248,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-18T06:24:26.0000000Z,t.silvestri@northstarhealth.org,99.243.250.161,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-18T06:32:26.0000000Z,l.moreau@northstarhealth.org,99.243.159.93,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-18T09:02:26.0000000Z,j.okafor@northstarhealth.org,99.243.237.77,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-18T09:09:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.235.170,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-18T09:52:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.77.57,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-18T11:22:26.0000000Z,d.whitfield@northstarhealth.org,99.243.242.90,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-18T11:39:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.238.240,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-18T12:57:26.0000000Z,s.tremblay@northstarhealth.org,99.243.17.222,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-18T14:25:26.0000000Z,r.kaur@northstarhealth.org,99.243.245.246,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-07-19T05:50:26.0000000Z,r.kaur@northstarhealth.org,99.243.150.216,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-07-19T07:30:26.0000000Z,l.moreau@northstarhealth.org,99.243.84.195,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-19T08:55:26.0000000Z,t.silvestri@northstarhealth.org,99.243.211.163,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-19T08:56:26.0000000Z,h.nakamura@northstarhealth.org,99.243.23.249,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-19T10:14:26.0000000Z,j.okafor@northstarhealth.org,99.243.213.23,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-19T10:37:26.0000000Z,k.abebe@northstarhealth.org,99.243.46.99,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-19T11:11:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.180.114,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-19T13:18:26.0000000Z,s.tremblay@northstarhealth.org,99.243.78.156,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-19T14:41:26.0000000Z,d.whitfield@northstarhealth.org,99.243.22.27,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-19T15:42:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.104.77,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-19T17:37:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.228.71,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-20T05:23:26.0000000Z,l.moreau@northstarhealth.org,99.243.17.162,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-20T08:46:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.187.157,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-20T08:52:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.21.152,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-20T09:13:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.41.221,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-20T09:25:26.0000000Z,j.okafor@northstarhealth.org,99.243.36.163,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-20T09:42:26.0000000Z,t.silvestri@northstarhealth.org,99.243.157.210,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-20T11:05:26.0000000Z,h.nakamura@northstarhealth.org,99.243.68.168,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-20T11:26:26.0000000Z,s.tremblay@northstarhealth.org,99.243.17.136,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-20T12:58:26.0000000Z,r.kaur@northstarhealth.org,99.243.71.144,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-20T16:25:26.0000000Z,d.whitfield@northstarhealth.org,99.243.54.225,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-20T16:57:26.0000000Z,k.abebe@northstarhealth.org,99.243.235.175,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-21T04:55:26.0000000Z,t.silvestri@northstarhealth.org,99.243.166.78,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-21T06:25:26.0000000Z,h.nakamura@northstarhealth.org,99.243.170.21,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-21T06:45:26.0000000Z,j.okafor@northstarhealth.org,99.243.95.18,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-21T07:26:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.24.231,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-21T08:09:26.0000000Z,d.whitfield@northstarhealth.org,99.243.117.20,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-21T08:29:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.195.146,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-21T11:41:26.0000000Z,r.kaur@northstarhealth.org,99.243.155.8,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-21T13:36:26.0000000Z,l.moreau@northstarhealth.org,99.243.131.129,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-21T14:22:26.0000000Z,k.abebe@northstarhealth.org,99.243.88.14,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-21T15:14:26.0000000Z,s.tremblay@northstarhealth.org,99.243.158.169,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-21T17:06:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.129.92,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-22T06:59:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.176.189,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-22T07:20:26.0000000Z,s.tremblay@northstarhealth.org,99.243.93.15,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-22T07:56:26.0000000Z,t.silvestri@northstarhealth.org,99.243.48.205,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-22T08:01:26.0000000Z,l.moreau@northstarhealth.org,99.243.150.192,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-22T08:31:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.139.146,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-22T09:20:26.0000000Z,h.nakamura@northstarhealth.org,99.243.105.59,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-22T12:15:26.0000000Z,d.whitfield@northstarhealth.org,99.243.15.72,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-22T13:05:26.0000000Z,k.abebe@northstarhealth.org,99.243.23.52,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-22T13:12:26.0000000Z,j.okafor@northstarhealth.org,99.243.17.18,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-22T13:58:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.117.243,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-22T17:25:26.0000000Z,r.kaur@northstarhealth.org,99.243.219.100,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-07-23T05:43:26.0000000Z,l.moreau@northstarhealth.org,99.243.165.27,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-23T05:57:26.0000000Z,t.silvestri@northstarhealth.org,99.243.180.136,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-23T06:18:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.39.240,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-23T08:00:26.0000000Z,r.kaur@northstarhealth.org,99.243.247.164,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-23T08:50:26.0000000Z,s.tremblay@northstarhealth.org,99.243.89.204,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-23T09:16:26.0000000Z,h.nakamura@northstarhealth.org,99.243.244.248,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-23T10:46:26.0000000Z,k.abebe@northstarhealth.org,99.243.194.209,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-23T12:33:26.0000000Z,j.okafor@northstarhealth.org,99.243.240.166,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-23T12:42:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.41.86,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-23T15:22:26.0000000Z,d.whitfield@northstarhealth.org,99.243.33.47,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-23T15:43:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.10.15,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-24T06:12:26.0000000Z,k.abebe@northstarhealth.org,99.243.12.142,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-24T07:03:26.0000000Z,j.okafor@northstarhealth.org,99.243.16.160,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-24T08:33:26.0000000Z,l.moreau@northstarhealth.org,99.243.166.121,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-24T08:41:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.31.122,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-24T11:12:26.0000000Z,t.silvestri@northstarhealth.org,99.243.95.57,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-24T11:19:26.0000000Z,h.nakamura@northstarhealth.org,99.243.163.20,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-24T12:51:26.0000000Z,r.kaur@northstarhealth.org,99.243.21.8,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-24T13:07:26.0000000Z,s.tremblay@northstarhealth.org,99.243.42.219,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-24T14:48:26.0000000Z,d.whitfield@northstarhealth.org,99.243.116.172,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-24T16:39:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.210.77,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-24T16:44:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.136.122,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-25T05:04:26.0000000Z,r.kaur@northstarhealth.org,99.243.52.82,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-07-25T05:16:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.116.201,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-25T07:07:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.16.86,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-25T07:54:26.0000000Z,s.tremblay@northstarhealth.org,99.243.128.78,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-25T09:22:26.0000000Z,k.abebe@northstarhealth.org,99.243.137.15,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-25T09:57:26.0000000Z,d.whitfield@northstarhealth.org,99.243.155.6,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-25T10:22:26.0000000Z,l.moreau@northstarhealth.org,99.243.111.15,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-25T11:57:26.0000000Z,t.silvestri@northstarhealth.org,99.243.168.52,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-25T14:00:26.0000000Z,j.okafor@northstarhealth.org,99.243.18.39,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-25T15:59:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.100.221,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-25T16:04:26.0000000Z,h.nakamura@northstarhealth.org,99.243.205.126,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-26T04:57:26.0000000Z,j.okafor@northstarhealth.org,99.243.65.205,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-26T05:41:26.0000000Z,t.silvestri@northstarhealth.org,99.243.28.115,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-26T06:11:26.0000000Z,r.kaur@northstarhealth.org,99.243.24.44,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-07-26T07:03:26.0000000Z,k.abebe@northstarhealth.org,99.243.159.137,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-26T09:02:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.111.7,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-26T09:57:26.0000000Z,l.moreau@northstarhealth.org,99.243.175.88,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-26T12:13:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.168.101,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-26T12:53:26.0000000Z,s.tremblay@northstarhealth.org,99.243.60.222,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-26T13:44:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.63.9,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-26T16:56:26.0000000Z,d.whitfield@northstarhealth.org,99.243.213.243,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-26T17:29:26.0000000Z,h.nakamura@northstarhealth.org,99.243.103.232,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-27T07:52:26.0000000Z,t.silvestri@northstarhealth.org,99.243.60.140,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-27T07:57:26.0000000Z,r.kaur@northstarhealth.org,99.243.91.96,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-27T08:05:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.137.90,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-27T08:12:26.0000000Z,h.nakamura@northstarhealth.org,99.243.21.122,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-27T08:50:26.0000000Z,l.moreau@northstarhealth.org,99.243.122.119,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-27T13:39:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.60.176,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-27T15:06:26.0000000Z,d.whitfield@northstarhealth.org,99.243.159.236,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-27T16:15:26.0000000Z,k.abebe@northstarhealth.org,99.243.143.94,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-27T16:35:26.0000000Z,s.tremblay@northstarhealth.org,99.243.18.250,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-27T16:56:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.205.121,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-27T16:57:26.0000000Z,j.okafor@northstarhealth.org,99.243.121.210,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-28T05:10:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.92.115,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-28T05:30:26.0000000Z,r.kaur@northstarhealth.org,99.243.193.76,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-28T06:24:26.0000000Z,k.abebe@northstarhealth.org,99.243.35.18,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-28T06:33:26.0000000Z,l.moreau@northstarhealth.org,99.243.38.98,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-28T08:59:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.198.49,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-28T09:18:26.0000000Z,d.whitfield@northstarhealth.org,99.243.231.32,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-28T10:54:26.0000000Z,t.silvestri@northstarhealth.org,99.243.103.78,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-28T11:11:26.0000000Z,s.tremblay@northstarhealth.org,99.243.246.233,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-28T12:00:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.130.57,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-28T12:27:26.0000000Z,h.nakamura@northstarhealth.org,99.243.102.110,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-28T13:52:26.0000000Z,j.okafor@northstarhealth.org,99.243.241.115,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-29T05:10:26.0000000Z,r.kaur@northstarhealth.org,99.243.170.199,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-29T05:52:26.0000000Z,j.okafor@northstarhealth.org,99.243.129.35,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-29T07:16:26.0000000Z,d.whitfield@northstarhealth.org,99.243.60.5,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-29T08:08:26.0000000Z,t.silvestri@northstarhealth.org,99.243.21.153,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-29T09:09:26.0000000Z,l.moreau@northstarhealth.org,99.243.118.164,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-29T10:11:26.0000000Z,h.nakamura@northstarhealth.org,99.243.185.12,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-29T11:31:26.0000000Z,k.abebe@northstarhealth.org,99.243.237.39,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-29T12:37:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.130.189,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-29T14:33:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.246.140,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-29T16:26:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.18.127,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-29T17:19:26.0000000Z,s.tremblay@northstarhealth.org,99.243.236.200,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-30T05:00:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.90.14,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-30T06:30:26.0000000Z,l.moreau@northstarhealth.org,99.243.51.231,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-30T08:16:26.0000000Z,t.silvestri@northstarhealth.org,99.243.184.199,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-07-30T09:40:26.0000000Z,d.whitfield@northstarhealth.org,99.243.63.204,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-30T14:03:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.217.125,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-30T14:17:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.39.152,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-30T15:44:26.0000000Z,k.abebe@northstarhealth.org,99.243.238.142,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-07-30T16:05:26.0000000Z,j.okafor@northstarhealth.org,99.243.104.69,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-30T16:48:26.0000000Z,s.tremblay@northstarhealth.org,99.243.15.136,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-30T17:06:26.0000000Z,h.nakamura@northstarhealth.org,99.243.40.210,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-30T17:29:26.0000000Z,r.kaur@northstarhealth.org,99.243.187.89,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-07-31T05:34:26.0000000Z,s.tremblay@northstarhealth.org,99.243.124.63,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-07-31T07:39:26.0000000Z,l.moreau@northstarhealth.org,99.243.35.32,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-07-31T08:36:26.0000000Z,d.whitfield@northstarhealth.org,99.243.72.27,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-31T08:55:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.110.18,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-07-31T09:11:26.0000000Z,j.okafor@northstarhealth.org,99.243.54.66,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-31T10:02:26.0000000Z,r.kaur@northstarhealth.org,99.243.219.104,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-31T11:59:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.250.136,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-07-31T14:28:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.186.187,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-31T15:43:26.0000000Z,h.nakamura@northstarhealth.org,99.243.45.4,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-31T16:30:26.0000000Z,t.silvestri@northstarhealth.org,99.243.200.9,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-07-31T17:12:26.0000000Z,k.abebe@northstarhealth.org,99.243.15.193,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-01T04:55:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.30.87,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-01T05:09:26.0000000Z,h.nakamura@northstarhealth.org,99.243.222.21,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-01T05:31:26.0000000Z,j.okafor@northstarhealth.org,99.243.48.66,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-01T06:25:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.73.138,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-01T10:14:26.0000000Z,s.tremblay@northstarhealth.org,99.243.74.189,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-01T13:36:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.69.205,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-01T13:51:26.0000000Z,d.whitfield@northstarhealth.org,99.243.26.248,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-01T14:08:26.0000000Z,l.moreau@northstarhealth.org,99.243.217.200,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-01T15:07:26.0000000Z,t.silvestri@northstarhealth.org,99.243.212.244,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-01T17:23:26.0000000Z,k.abebe@northstarhealth.org,99.243.94.13,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-01T17:29:26.0000000Z,r.kaur@northstarhealth.org,99.243.115.239,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-02T08:12:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.90.50,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-02T09:37:26.0000000Z,s.tremblay@northstarhealth.org,99.243.178.102,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-02T10:07:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.222.98,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-02T10:30:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.131.23,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-02T11:36:26.0000000Z,t.silvestri@northstarhealth.org,99.243.186.91,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-02T13:33:26.0000000Z,d.whitfield@northstarhealth.org,99.243.220.128,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-02T14:58:26.0000000Z,h.nakamura@northstarhealth.org,99.243.92.14,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-02T15:20:26.0000000Z,l.moreau@northstarhealth.org,99.243.106.12,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-02T15:29:26.0000000Z,k.abebe@northstarhealth.org,99.243.37.179,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-02T15:55:26.0000000Z,j.okafor@northstarhealth.org,99.243.198.54,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-02T16:11:26.0000000Z,r.kaur@northstarhealth.org,99.243.177.151,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-03T05:56:26.0000000Z,r.kaur@northstarhealth.org,99.243.53.226,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-03T06:50:26.0000000Z,l.moreau@northstarhealth.org,99.243.114.133,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-03T07:36:26.0000000Z,s.tremblay@northstarhealth.org,99.243.161.32,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-03T10:38:26.0000000Z,j.okafor@northstarhealth.org,99.243.70.55,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-03T11:06:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.131.242,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-03T13:20:26.0000000Z,d.whitfield@northstarhealth.org,99.243.207.89,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-03T13:43:26.0000000Z,t.silvestri@northstarhealth.org,99.243.215.217,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-03T13:49:26.0000000Z,h.nakamura@northstarhealth.org,99.243.136.14,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-03T14:24:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.215.10,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-03T14:25:26.0000000Z,k.abebe@northstarhealth.org,99.243.70.107,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-03T17:36:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.163.163,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-04T05:12:26.0000000Z,s.tremblay@northstarhealth.org,99.243.97.64,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-04T05:21:26.0000000Z,d.whitfield@northstarhealth.org,99.243.85.85,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-04T07:35:26.0000000Z,k.abebe@northstarhealth.org,99.243.124.193,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-04T08:14:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.20.119,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-04T08:54:26.0000000Z,j.okafor@northstarhealth.org,99.243.26.225,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-04T09:07:26.0000000Z,r.kaur@northstarhealth.org,99.243.31.180,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-04T09:29:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.133.189,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-04T10:48:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.18.102,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-04T11:52:26.0000000Z,t.silvestri@northstarhealth.org,99.243.221.8,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-04T15:14:26.0000000Z,h.nakamura@northstarhealth.org,99.243.82.72,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-04T17:22:26.0000000Z,l.moreau@northstarhealth.org,99.243.45.142,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-05T07:03:26.0000000Z,k.abebe@northstarhealth.org,99.243.179.228,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-05T08:11:26.0000000Z,l.moreau@northstarhealth.org,99.243.180.229,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-05T10:01:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.151.247,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-05T10:46:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.96.232,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-05T12:55:26.0000000Z,j.okafor@northstarhealth.org,99.243.208.248,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-05T14:25:26.0000000Z,t.silvestri@northstarhealth.org,99.243.82.102,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-05T14:32:26.0000000Z,d.whitfield@northstarhealth.org,99.243.73.216,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-05T14:48:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.138.218,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-05T16:18:26.0000000Z,h.nakamura@northstarhealth.org,99.243.206.190,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-05T17:31:26.0000000Z,r.kaur@northstarhealth.org,99.243.210.215,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-05T17:46:26.0000000Z,s.tremblay@northstarhealth.org,99.243.185.223,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-06T05:07:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.122.164,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-06T05:11:26.0000000Z,s.tremblay@northstarhealth.org,99.243.242.244,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-06T07:31:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.177.113,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-06T07:40:26.0000000Z,h.nakamura@northstarhealth.org,99.243.220.125,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-06T09:54:26.0000000Z,d.whitfield@northstarhealth.org,99.243.195.3,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-06T10:28:26.0000000Z,r.kaur@northstarhealth.org,99.243.150.118,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-06T11:50:26.0000000Z,k.abebe@northstarhealth.org,99.243.242.7,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-06T12:53:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.91.170,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-06T13:58:26.0000000Z,t.silvestri@northstarhealth.org,99.243.100.7,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-06T15:57:26.0000000Z,l.moreau@northstarhealth.org,99.243.225.213,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-06T17:36:26.0000000Z,j.okafor@northstarhealth.org,99.243.184.207,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-07T05:01:26.0000000Z,l.moreau@northstarhealth.org,99.243.35.143,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-07T05:33:26.0000000Z,j.okafor@northstarhealth.org,99.243.55.121,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-07T07:06:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.119.29,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-07T08:43:26.0000000Z,h.nakamura@northstarhealth.org,99.243.235.19,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-07T11:05:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.189.137,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-07T11:31:26.0000000Z,d.whitfield@northstarhealth.org,99.243.184.207,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-07T11:39:26.0000000Z,r.kaur@northstarhealth.org,99.243.128.54,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-07T12:49:26.0000000Z,t.silvestri@northstarhealth.org,99.243.119.118,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-07T13:57:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.80.102,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-07T14:15:26.0000000Z,k.abebe@northstarhealth.org,99.243.140.232,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-07T15:18:26.0000000Z,s.tremblay@northstarhealth.org,99.243.59.193,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-08T04:55:26.0000000Z,l.moreau@northstarhealth.org,99.243.44.67,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-08T05:07:26.0000000Z,t.silvestri@northstarhealth.org,99.243.145.168,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-08T05:39:26.0000000Z,h.nakamura@northstarhealth.org,99.243.40.152,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-08T06:43:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.130.93,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-08T08:41:26.0000000Z,d.whitfield@northstarhealth.org,99.243.14.207,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-08T10:16:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.28.19,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-08T14:19:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.30.86,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-08T15:06:26.0000000Z,j.okafor@northstarhealth.org,99.243.90.244,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-08T15:10:26.0000000Z,r.kaur@northstarhealth.org,99.243.104.59,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-08T15:47:26.0000000Z,s.tremblay@northstarhealth.org,99.243.62.167,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-08T17:13:26.0000000Z,k.abebe@northstarhealth.org,99.243.38.138,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-09T06:31:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.41.64,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-09T08:19:26.0000000Z,h.nakamura@northstarhealth.org,99.243.161.234,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-09T08:24:26.0000000Z,t.silvestri@northstarhealth.org,99.243.98.80,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-09T09:34:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.159.25,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-09T09:57:26.0000000Z,l.moreau@northstarhealth.org,99.243.73.4,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-09T10:35:26.0000000Z,k.abebe@northstarhealth.org,99.243.43.75,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-09T11:03:26.0000000Z,d.whitfield@northstarhealth.org,99.243.23.224,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-09T11:35:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.239.147,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-09T14:23:26.0000000Z,j.okafor@northstarhealth.org,99.243.43.232,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-09T16:30:26.0000000Z,s.tremblay@northstarhealth.org,99.243.248.163,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-09T17:26:26.0000000Z,r.kaur@northstarhealth.org,99.243.216.107,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-10T08:50:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.79.230,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-10T09:25:26.0000000Z,t.silvestri@northstarhealth.org,99.243.40.111,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-10T10:03:26.0000000Z,s.tremblay@northstarhealth.org,99.243.64.59,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-10T10:26:26.0000000Z,k.abebe@northstarhealth.org,99.243.112.246,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-10T11:30:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.151.44,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-10T12:01:26.0000000Z,r.kaur@northstarhealth.org,99.243.90.187,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-10T14:00:26.0000000Z,d.whitfield@northstarhealth.org,99.243.244.18,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-10T14:23:26.0000000Z,l.moreau@northstarhealth.org,99.243.141.245,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-10T15:03:26.0000000Z,j.okafor@northstarhealth.org,99.243.22.210,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-10T16:29:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.139.86,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-10T17:02:26.0000000Z,h.nakamura@northstarhealth.org,99.243.60.238,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-11T06:04:26.0000000Z,j.okafor@northstarhealth.org,99.243.10.113,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-11T06:46:26.0000000Z,t.silvestri@northstarhealth.org,99.243.176.143,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-11T07:42:26.0000000Z,k.abebe@northstarhealth.org,99.243.23.217,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-11T07:42:26.0000000Z,l.moreau@northstarhealth.org,99.243.148.3,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-11T08:38:26.0000000Z,d.whitfield@northstarhealth.org,99.243.61.146,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-11T10:20:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.23.132,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-11T11:25:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.114.200,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-11T12:03:26.0000000Z,s.tremblay@northstarhealth.org,99.243.178.85,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-11T14:48:26.0000000Z,h.nakamura@northstarhealth.org,99.243.27.202,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-11T14:51:26.0000000Z,r.kaur@northstarhealth.org,99.243.242.215,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-11T14:58:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.172.149,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-12T05:56:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.180.237,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-12T06:13:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.222.75,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-12T07:47:26.0000000Z,s.tremblay@northstarhealth.org,99.243.137.18,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-12T08:40:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.206.138,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-12T09:19:26.0000000Z,j.okafor@northstarhealth.org,99.243.18.8,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-12T09:26:26.0000000Z,l.moreau@northstarhealth.org,99.243.112.226,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-12T09:44:26.0000000Z,d.whitfield@northstarhealth.org,99.243.197.187,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-12T13:32:26.0000000Z,k.abebe@northstarhealth.org,99.243.212.9,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-12T14:28:26.0000000Z,t.silvestri@northstarhealth.org,99.243.177.244,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-12T16:10:26.0000000Z,h.nakamura@northstarhealth.org,99.243.19.225,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-12T17:11:26.0000000Z,r.kaur@northstarhealth.org,99.243.157.149,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-13T07:47:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.214.71,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-13T08:23:26.0000000Z,t.silvestri@northstarhealth.org,99.243.58.125,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-13T09:13:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.159.172,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-13T10:17:26.0000000Z,k.abebe@northstarhealth.org,99.243.57.216,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-13T10:50:26.0000000Z,l.moreau@northstarhealth.org,99.243.219.2,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-13T13:58:26.0000000Z,s.tremblay@northstarhealth.org,99.243.188.49,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-CLIN-WS012
+2026-08-13T14:03:26.0000000Z,d.whitfield@northstarhealth.org,99.243.234.101,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-13T14:13:26.0000000Z,h.nakamura@northstarhealth.org,99.243.11.145,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-13T14:17:26.0000000Z,j.okafor@northstarhealth.org,99.243.124.248,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-13T14:38:26.0000000Z,r.kaur@northstarhealth.org,99.243.152.13,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-SRV07
+2026-08-13T15:29:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.143.201,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-14T05:25:26.0000000Z,k.abebe@northstarhealth.org,99.243.53.104,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-14T08:12:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.243.84,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-14T08:24:26.0000000Z,r.kaur@northstarhealth.org,99.243.179.107,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-14T09:49:26.0000000Z,j.okafor@northstarhealth.org,99.243.180.27,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-14T09:49:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.176.189,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-14T10:04:26.0000000Z,l.moreau@northstarhealth.org,99.243.188.56,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-14T14:20:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.161.161,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-14T16:08:26.0000000Z,d.whitfield@northstarhealth.org,99.243.240.202,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-14T16:39:26.0000000Z,s.tremblay@northstarhealth.org,99.243.33.229,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-14T16:48:26.0000000Z,t.silvestri@northstarhealth.org,99.243.241.210,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-14T17:40:26.0000000Z,h.nakamura@northstarhealth.org,99.243.188.122,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-15T08:19:26.0000000Z,l.moreau@northstarhealth.org,99.243.236.84,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-15T12:00:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.245.148,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-15T13:09:26.0000000Z,r.kaur@northstarhealth.org,99.243.38.210,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-15T14:19:26.0000000Z,d.whitfield@northstarhealth.org,99.243.201.205,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-15T15:36:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.150.66,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-15T15:38:26.0000000Z,h.nakamura@northstarhealth.org,99.243.249.156,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-15T15:42:26.0000000Z,t.silvestri@northstarhealth.org,99.243.84.101,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-15T16:25:26.0000000Z,k.abebe@northstarhealth.org,99.243.91.184,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-15T16:53:26.0000000Z,j.okafor@northstarhealth.org,99.243.43.165,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-15T17:04:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.75.82,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-CLIN-WS011
+2026-08-15T17:42:26.0000000Z,s.tremblay@northstarhealth.org,99.243.212.189,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-16T05:08:26.0000000Z,s.tremblay@northstarhealth.org,99.243.194.248,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-RSCH-WS042
+2026-08-16T06:13:26.0000000Z,a.oyelaran@northstarhealth.org,99.243.20.96,CA,Toronto,0,Office365 Shell WCSS,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-16T06:20:26.0000000Z,t.silvestri@northstarhealth.org,99.243.49.234,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-16T07:34:26.0000000Z,h.nakamura@northstarhealth.org,99.243.185.165,CA,Toronto,0,OfficeHome,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-16T08:22:26.0000000Z,m.lindqvist@northstarhealth.org,99.243.40.177,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-FILE-SRV02
+2026-08-16T09:45:26.0000000Z,d.whitfield@northstarhealth.org,99.243.124.31,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-16T10:55:26.0000000Z,r.kaur@northstarhealth.org,99.243.122.142,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-RSCH-WS041
+2026-08-16T14:24:26.0000000Z,j.okafor@northstarhealth.org,99.243.60.116,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-LAB-WS051
+2026-08-16T14:51:26.0000000Z,k.abebe@northstarhealth.org,99.243.180.113,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-16T16:40:26.0000000Z,l.moreau@northstarhealth.org,99.243.139.14,CA,Toronto,0,Microsoft Teams,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS031
+2026-08-16T17:30:26.0000000Z,p.deshmukh@northstarhealth.org,99.243.105.161,CA,Toronto,0,Outlook Web App,Browser,multiFactorAuthentication,none,NSH-ADMIN-WS032
+2026-08-17T07:03:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,50126,Office365 Shell WCSS,Browser,singleFactorAuthentication,medium,
+2026-08-17T07:07:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Office365 Shell WCSS,Browser,singleFactorAuthentication,high,
+2026-08-17T07:10:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T07:17:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T07:24:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T07:31:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T07:38:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T07:45:26.0000000Z,r.kaur@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Outlook Web App,Browser,singleFactorAuthentication,high,
+2026-08-17T09:32:26.0000000Z,p.deshmukh@northstarhealth.org,185.220.14.87,NL,Amsterdam,0,Office365 Shell WCSS,Browser,singleFactorAuthentication,high,
